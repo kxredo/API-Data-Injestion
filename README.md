@@ -27,7 +27,7 @@ password = your_password
 ```
 
 ## Diagram 
--
+```
              ┌─────────────────────────┐
              │   CoinGecko API (JSON)  │
              └─────────────┬──────────┘
@@ -54,6 +54,8 @@ password = your_password
  │   market cap, etc.  │          │    coins          │
  └─────────────────────┘          │  - Logs errors    │
                                   └───────────────────┘
+
+```
 ---
 ## Installation and Running the Project
 1. **Clone the repository:**
